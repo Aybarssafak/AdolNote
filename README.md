@@ -47,6 +47,7 @@ python cli/main.py --delete 1
 ###🔹 GUI (Grafik Arayüz) Kullanımı
 
 python gui/main.py
+```
 
 ##🗂️ Proje Yapısı
 
