@@ -1,6 +1,8 @@
 # 📓 AdolNote
 
-AdolNote, Linux kullanıcıları için geliştirilen minimalist ve hızlı bir not alma uygulamasıdır. Hem terminal (CLI) hem de basit bir grafik arayüz (GUI) sunar. Python ile yazılmış açık kaynaklı bir projedir.
+AdolNote, Linux kullanıcıları için geliştirilen minimalist ve hızlı bir not alma uygulamasıdır. 
+Hem terminal (CLI) hem de basit bir grafik arayüz (GUI) sunar. 
+Python ile yazılmış açık kaynaklı bir projedir.
 
 ---
 
@@ -31,27 +33,36 @@ cd AdolNote
 
 # 2. Bağımlılıkları yükleyin
 pip install -r requirements.txt
+```
 
-##🖥️ Kullanım
-###🔸 CLI (Terminal) Kullanımı
+---
 
- Not ekle
+## 🖥️ Kullanım
+
+### 🔸 CLI (Terminal) Kullanımı
+
+```bash
+# Not ekle
 python cli/main.py --add "Bugün çalışmalıyım"
 
- Notları listele
+# Notları listele
 python cli/main.py --list
 
- Not sil (ID ile)
+# Not sil (ID ile)
 python cli/main.py --delete 1
+```
 
-###🔹 GUI (Grafik Arayüz) Kullanımı
+### 🔹 GUI (Grafik Arayüz) Kullanımı
 
+```bash
 python gui/main.py
 ```
 
-##🗂️ Proje Yapısı
-```bash
+---
 
+## 🗂️ Proje Yapısı
+
+```bash
 AdolNote/
 ├── cli/              # Komut satırı arayüzü
 │   └── main.py
@@ -64,16 +75,26 @@ AdolNote/
 ├── README.md         # Bu dosya
 ```
 
-###🧑‍💻 Geliştirici
+---
 
-Aybarssafak
-📍 Türkiye
+## 🧑‍💻 Geliştirici
 
-###📄 Lisans
+**Aybarssafak**  
+📍 Türkiye  
+🌐 [GitHub](https://github.com/Aybarssafak)
 
-Bu proje MIT lisansı ile lisanslanmıştır. Detaylı bilgi için LICENSE dosyasına göz atabilirsiniz.
+---
 
-###🌟 Destek Ol
+## 📄 Lisans
 
-Projeyi beğendiyseniz ⭐ vererek destek olabilirsiniz.
-Arkadaşlarınızla paylaşmak da motivasyon kaynağı olur 🙌
+Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
+
+---
+
+## 🌟 Destek Ol
+
+Projeyi beğendiyseniz ⭐ vererek destek olabilirsiniz.  
+Arkadaşlarınızla paylaşmanız da motivasyon kaynağı olur 🙌
+```
+
+---
