@@ -50,6 +50,7 @@ python gui/main.py
 ```
 
 ##🗂️ Proje Yapısı
+```bash
 
 AdolNote/
 ├── cli/              # Komut satırı arayüzü
@@ -61,17 +62,18 @@ AdolNote/
 ├── requirements.txt  # Python bağımlılıkları
 ├── LICENSE           # MIT lisans dosyası
 ├── README.md         # Bu dosya
+```
 
-##🧑‍💻 Geliştirici
+###🧑‍💻 Geliştirici
 
 Aybarssafak
 📍 Türkiye
 
-##📄 Lisans
+###📄 Lisans
 
 Bu proje MIT lisansı ile lisanslanmıştır. Detaylı bilgi için LICENSE dosyasına göz atabilirsiniz.
 
-##🌟 Destek Ol
+###🌟 Destek Ol
 
 Projeyi beğendiyseniz ⭐ vererek destek olabilirsiniz.
 Arkadaşlarınızla paylaşmak da motivasyon kaynağı olur 🙌
