@@ -96,5 +96,3 @@ Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
 Projeyi beğendiyseniz ⭐ vererek destek olabilirsiniz.  
 Arkadaşlarınızla paylaşmanız da motivasyon kaynağı olur 🙌
 ```
-
----
