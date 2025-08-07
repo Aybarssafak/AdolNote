@@ -35,16 +35,16 @@ cd AdolNote
 - Debian/Ubuntu:
   sudo apt install python3-tk
 
- - Fedora:
+- Fedora:
    sudo dnf install python3-tkinter
 
- - Arch:
+- Arch:
   sudo pacman -S tk
 
- - MacOS:
+- MacOS:
   brew install python-tk
 
- - Windows:
+- Windows:
   Tkinter genellikle Python'a dahildir.
   Eksik ise, python.org'dan python'u yeniden yükleyin
 
