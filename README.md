@@ -71,7 +71,7 @@ python cli/main.py --delete 1
 ### 🔹 GUI (Grafik Arayüz) Kullanımı
 
 ```bash
-python gui/main.py
+python gui/app.py
 ```
 
 ---
@@ -83,7 +83,7 @@ AdolNote/
 ├── cli/              # Komut satırı arayüzü
 │   └── main.py
 ├── gui/              # Grafik arayüz
-│   └── main.py
+│   └── app.py
 ├── utils/            # Not kayıt/silme işlevleri
 │   └── storage.py
 ├── requirements.txt  # Python bağımlılıkları
