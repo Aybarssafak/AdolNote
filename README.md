@@ -32,9 +32,6 @@ git clone https://github.com/Aybarssafak/AdolNote.git
 cd AdolNote
 
 
-
-**Linux:**
-
 - Debian/Ubuntu:
   sudo apt install python3-tk
 
