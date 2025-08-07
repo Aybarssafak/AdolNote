@@ -5,6 +5,11 @@ Hem terminal (CLI) hem de basit bir grafik arayüz (GUI) sunar.
 Python ile yazılmış açık kaynaklı bir projedir.
 
 ---
+## 🖼️ Ekran Görüntüsü
+
+![AdolNote GUI](Ekran Görüntüsü.png)
+
+---
 
 ## 🚀 Özellikler
 
