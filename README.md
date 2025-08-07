@@ -31,8 +31,27 @@ Python ile yazılmış açık kaynaklı bir projedir.
 git clone https://github.com/Aybarssafak/AdolNote.git
 cd AdolNote
 
-# 2. Bağımlılıkları yükleyin
-pip install -r requirements.txt
+
+
+**Linux:**
+
+- Debian/Ubuntu:
+  sudo apt install python3-tk
+
+ - Fedora:
+   sudo dnf install python3-tkinter
+
+ - Arch:
+  sudo pacman -S tk
+
+ - MacOS:
+  brew install python-tk
+
+ - Windows:
+  Tkinter genellikle Python'a dahildir.
+  Eksik ise, python.org'dan python'u yeniden yükleyin
+
+
 ```
 
 ---
