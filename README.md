@@ -7,7 +7,7 @@ Python ile yazılmış açık kaynaklı bir projedir.
 ---
 ## 🖼️ Ekran Görüntüsü
 
-![AdolNote GUI](Ekran Görüntüsü.png)
+![AdolNote GUI](screenshot.png)
 
 ---
 
